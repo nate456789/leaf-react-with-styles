@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import withDirection, { withDirectionPropTypes } from 'react-with-direction';
+import withDirection, { withDirectionPropTypes } from 'leaf-react-with-direction';
 import WithStylesContext from '../WithStylesContext';
 
 const propTypes = {

@@ -2,7 +2,7 @@
 
 import React, { forwardRef } from 'react';
 import hoistNonReactStatics from 'hoist-non-react-statics';
-import getComponentName from 'airbnb-prop-types/build/helpers/getComponentName';
+import getComponentName from 'leaf-airbnb-prop-types/build/helpers/getComponentName';
 
 import EMPTY_STYLES_FN from './utils/emptyStylesFn';
 import withPerf from './utils/perf';

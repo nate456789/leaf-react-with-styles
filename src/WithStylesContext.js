@@ -1,6 +1,6 @@
 import { createContext } from 'react';
 import PropTypes from 'prop-types';
-import { DIRECTIONS } from 'react-with-direction';
+import { DIRECTIONS } from 'leaf-react-with-direction';
 
 function detectAndCreateContext(defaultValue) {
   if (createContext) {

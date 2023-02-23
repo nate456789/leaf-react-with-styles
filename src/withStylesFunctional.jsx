@@ -2,7 +2,7 @@
 
 import React from 'react';
 import hoistNonReactStatics from 'hoist-non-react-statics';
-import getComponentName from 'airbnb-prop-types/build/helpers/getComponentName';
+import getComponentName from 'leaf-airbnb-prop-types/build/helpers/getComponentName';
 
 import useStyles from './hooks/useStyles';
 import detectHooks from './hooks/detectHooks';
